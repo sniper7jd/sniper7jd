@@ -1,16 +1,40 @@
-## Hi there 👋
+🌼 Jagrit Dhingra
 
-<!--
-**sniper7jd/sniper7jd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science X Finance
 
-Here are some ideas to get you started:
+Hi, I'm JD! 👋 Passionate about Finance and the inner workings of computers. Still figuring it all out, getting more clarity day by day. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Languages and Tools
+
+Python
+
+Java
+
+C++
+
+Unity
+
+JavaScript
+
+React
+
+HTML
+
+CSS
+
+TailwindCSS
+
+Canva
+
+Figma
+
+Git
+
+Bloomberg
+
+
+About Me
+
+🔭 **Focus:** Finance & Computer Science
+🌱 **Current Goal:** Connecting the dots between markets and machines.
+🧠 **Philosophy:** Learning by doing (and debugging).
